@@ -4,3 +4,158 @@
     "asciidoc.useWorkspaceRootAsBaseDirectory": true,
     "asciidoc.antora.enableAntoraSupport": true
 }
+{
+    "workbench.editor.showIcons": true,
+    "workbench.startupEditor": "none",
+    "editor.fontSize": 12,
+    "editor.minimap.enabled": false,
+    "editor.mouseWheelZoom": true,
+    "editor.tabSize": 4,
+    "editor.renderWhitespace": "all",
+    "editor.insertSpaces": true,
+    "editor.rulers": [
+        140, 180
+    ],
+    "editor.renderLineHighlight": "all",
+    "editor.renderIndentGuides": true,
+    "editor.selectionHighlight": true,
+    "window.zoomLevel": 0,
+    "powershell.integratedConsole.focusConsoleOnExecute": false,
+    "git.ignoreMissingGitWarning": true,
+    "files.trimTrailingWhitespace": true,
+    "powershell.powerShellExePath": "",
+    "vscodeWorkspaceSwitcher.paths": [
+        "C:\\Users\\igewebs\\Documents\\Batch Scripts",
+        "C:\\webserver"
+    ],
+    "window.titleBarStyle": "custom",
+    "sync.askGistName": true,
+    "todo-tree.defaultHighlight": {
+        "foreground": "green",
+        "type": "none"
+    },
+    "todo-tree.customHighlight": {
+        "TODO": {},
+        "FIXME": {}
+    },
+    "cSpell.userWords": [
+        "apple",
+        "icon",
+        "logo",
+        "msapplication",
+        "mstile",
+        "precomposed",
+        "square",
+        "touch",
+        "x"
+    ],
+    "workbench.editor.highlightModifiedTabs": true,
+    "insertDateString.format": "YYYY-MM-DD HH:mm:ssA",
+    "insertDateString.formatTime": "HH:mm:ssA",
+    "textmarker.savedHighlights": [
+        {
+            "pattern": {
+                "type": "string",
+                "expression": "\"d\"",
+                "ignoreCase": false,
+                "wholeMatch": false
+            },
+            "color": "darkgoldenrod"
+        },
+        {
+            "pattern": {
+                "type": "string",
+                "expression": "\"n\"",
+                "ignoreCase": false,
+                "wholeMatch": false
+            },
+            "color": "darkmagenta"
+        },
+        {
+            "pattern": {
+                "type": "string",
+                "expression": "\"c\"",
+                "ignoreCase": false,
+                "wholeMatch": false
+            },
+            "color": "darkolivegreen"
+        },
+        {
+            "pattern": {
+                "type": "string",
+                "expression": "\"s\"",
+                "ignoreCase": false,
+                "wholeMatch": false
+            },
+            "color": "darkslateblue"
+        },
+        {
+            "pattern": {
+                "type": "string",
+                "expression": "\"f\"",
+                "ignoreCase": false,
+                "wholeMatch": false
+            },
+            "color": "darkslategray"
+        }
+    ],
+    "editor.fontLigatures": true,
+    "editor.quickSuggestionsDelay": 3000000,
+    "sync.gist": "1b81a58406632b329caa4807abceb896",
+    "workbench.statusBar.feedback.visible": false,
+    "terminal.integrated.rendererType": "dom",
+    "sync.forceUpload": true,
+    "editor.wordWrap": "on",
+    "todo-tree.highlights.customHighlight": {
+        "TODO": {},
+        "FIXME": {}
+    },
+    "todo-tree.highlights.defaultHighlight": {
+        "foreground": "green",
+        "type": "none"
+    },
+    "cSpell.enabledLanguageIds": [
+        "adblock",
+        "asciidoc",
+        "c",
+        "cpp",
+        "csharp",
+        "css",
+        "git-commit",
+        "go",
+        "handlebars",
+        "haskell",
+        "html",
+        "jade",
+        "java",
+        "javascript",
+        "javascriptreact",
+        "json",
+        "jsonc",
+        "latex",
+        "less",
+        "markdown",
+        "php",
+        "plaintext",
+        "pug",
+        "python",
+        "restructuredtext",
+        "rust",
+        "scala",
+        "scss",
+        "text",
+        "typescript",
+        "typescriptreact",
+        "yaml",
+        "yml"
+    ],
+    "git.enableSmartCommit": true,
+    "workbench.iconTheme": "vscode-icons",
+    "vsicons.dontShowNewVersionMessage": true,
+    "editor.defaultFormatter": "null",
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "editor.fontFamily": "Iosevka",
+    "markdown.preview.fontFamily": "Iosevka",
+    "debug.console.fontFamily": "Iosevka"
+}

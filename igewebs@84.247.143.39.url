@@ -1,0 +1,5 @@
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,0
+[InternetShortcut]
+IDList=
+URL=ssh://igewebs;IdentityFile=C%3a%5cUsers%5cigewe%5c.ssh%5cid_rsa@84.247.143.39/?conpty=True&buffer=True
