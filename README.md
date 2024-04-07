@@ -1,4 +1,4 @@
-config
+projectoperations config
 ======
 
 This is a public place for all config projects related to the GitHub Platform.
